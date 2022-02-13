@@ -15,6 +15,8 @@ export default class XXXComponent extends Vue {
   private price1 = 0;
   private price2 = 0;
   private price3 = 0;
+
+  //ゲッターを作ろう。
 }
 </script>
 
